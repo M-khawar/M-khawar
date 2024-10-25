@@ -69,7 +69,7 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 </a>
 
 <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"> 
-<img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" alt="Docker" width="60" height="60"/>
 </a>
 
 <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"> 
