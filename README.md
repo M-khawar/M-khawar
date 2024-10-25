@@ -17,7 +17,7 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 </a>
 
 <a href="https://lumen.laravel.com" title="Lumen" target="_blank" rel="noreferrer"> 
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEX8TjH8TC78SSr8VDn9eGT/y8L//fz/6+f8W0H9fmz////+q578Rib9jHz+wrn/9PL8Ryf9mIv9kH/8QR3/1c78YEX+5eL9o5b+zcf9fGj9c13/9vX+4d78PRb9hXX9bVX+vrT8MQD9mY39ta39rqX+2NL8OAf8XUN6V3Q4AAABEUlEQVR4AXXSVbbDIBRAUbhEKdYg0brNf4QV8tYq8np+dwS5KAwDKcqqLjDKwtC0JX23yYk1XFQfkxwnppptKT2JjsSIdWc8VYITpTRmgdmVaNk2oHRrXP9VPXgyI1FMT2amdNlFOJtJM0VGQ9+FiO1gWs3Arluh0owQLkgzZruV6mG/g3Qrw7xuhSP1eys70KGFW9kdhBNes63o5vj5eAEo2wqwnvoOGCVbAWCnj8zLNv6p1oDJ/kze5s6EoTTFayreeNnhlNjudH3v5I3X044ldnWLpD65uE2sqqNBXXJE5Pa1G8Eo1uK2/HXLpw/0/eS7a0BZsL/49oDyWO8Hs+oZysPWr8k8MPpPHxcpL01gL12cF9Vxqst7AAAAAElFTkSuQmCC" alt="Lumen" width="50" height="50"/>
+  <img src="https://static.cdnlogo.com/logos/l/41/lumen.svg" alt="Lumen" width="50" height="50"/>
 </a>
 
 <a href="https://laravel-livewire.com" title="Livewire" target="_blank" rel="noreferrer"> 
