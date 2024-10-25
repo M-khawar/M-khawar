@@ -23,7 +23,15 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 <a href="https://laravel-livewire.com" title="Livewire" target="_blank" rel="noreferrer"> 
   <img src="https://laravel-livewire.com/img/underwater_jelly.svg" alt="Livewire" width="40" height="40"/>
 </a>
-  
+
+<a href="https://www.php.net" title="PHP" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
+</a>
+
+<a href="https://swagger.io/" title="Swagger" target="_blank" rel="noreferrer"> 
+ <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger" width="40" height="40" /> 
+</a>
+
 <a href="https://vuejs.org/" title="Vue.js" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
 </a>
@@ -32,8 +40,20 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
 </a>
 
+<a href="https://inertiajs.com" title="Inertia.js" target="_blank" rel="noreferrer">
+<img src="https://avatars.githubusercontent.com/u/47703742" alt="Inertia.js" width="40" height="40" style="border-radius:50%"/>
+</a>
+
+<a href="https://react.dev" title="React" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
+</a>
+
 <a href="https://www.mysql.com/" title="Mysql" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://zapier.com" title="Zapier" target="_blank" rel="noreferrer"> 
+ <img src="https://res.cloudinary.com/zapier-media/image/upload/v1666030611/Contact%20Sales/logo_ptzjx8.png" alt="Zapier" width="45" height="30" /> 
 </a>
 
 <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"> 
