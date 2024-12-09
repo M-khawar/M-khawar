@@ -6,9 +6,13 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 </br>
 
 ##### 𝐌𝐲 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬:
-1. 🏆 5 years of experience
-2. 🧾 Web Design & Development Certified
-3. 🎓 Graduated
+1. 🏆 5+ years of experience
+2. 💯 Successfully completed 25+ complex projects
+3. ⚙️ Backend & API | Third Party Integrations | Swagger API
+4. 🚀 SAAS, MVP Developer
+5. 🧾 Web Design & Development Certified
+6. 🦾 Workflow automation Expert
+7. 🎓 Computer Science Graduate
 
 ##### I love to build apps using these technologies:
 <p>
