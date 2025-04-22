@@ -14,77 +14,104 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 6. 🦾 Workflow automation Expert
 7. 🎓 Computer Science Graduate
 
-##### I love to build apps using these technologies:
+##### My Specialized Skills:
+
+###### Backend Technologies:
 <p>
-<a href="https://laravel.com/" title="Laravel" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
-</a>
+  <a href="https://www.php.net" title="PHP" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" title="Laravel" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
+  </a>
 
-<a href="https://lumen.laravel.com" title="Lumen" target="_blank" rel="noreferrer"> 
-  <img src="https://static.cdnlogo.com/logos/l/41/lumen.svg" alt="Lumen" width="50" height="50"/>
-</a>
+  <a href="https://lumen.laravel.com" title="Lumen" target="_blank" rel="noreferrer"> 
+    <img src="https://static.cdnlogo.com/logos/l/41/lumen.svg" alt="Lumen" width="50" height="50"/>
+  </a>
 
-<a href="https://laravel-livewire.com" title="Livewire" target="_blank" rel="noreferrer"> 
-  <img src="https://laravel-livewire.com/img/underwater_jelly.svg" alt="Livewire" width="40" height="40"/>
-</a>
+  <a href="https://laravel-livewire.com" title="Livewire" target="_blank" rel="noreferrer"> 
+    <img src="https://laravel-livewire.com/img/underwater_jelly.svg" alt="Livewire" width="40" height="40"/>
+  </a>
 
-<a href="https://www.php.net" title="PHP" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
-</a>
-
-<a href="https://swagger.io/" title="Swagger" target="_blank" rel="noreferrer"> 
- <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger" width="40" height="40" /> 
-</a>
-
-<a href="https://vuejs.org/" title="Vue.js" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-</a>
-
-<a href="https://nuxtjs.org/" title="Nuxt" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
-</a>
-
-<a href="https://inertiajs.com" title="Inertia.js" target="_blank" rel="noreferrer">
-<img src="https://avatars.githubusercontent.com/u/47703742" alt="Inertia.js" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev" title="React" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/445914/node-js.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" title="Mysql" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://redis.io" title="Redis" target="_blank" rel="noreferrer">
-<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="40" height="40"/>
-</a>
-
-<a href="https://zapier.com" title="Zapier" target="_blank" rel="noreferrer"> 
- <img src="https://res.cloudinary.com/zapier-media/image/upload/v1666030611/Contact%20Sales/logo_ptzjx8.png" alt="Zapier" width="45" height="30" /> 
-</a>
-
-<a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"> 
-<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="AWS" width="60" height="40"/>
-</a>
-
-<a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" alt="Docker" width="60" height="60"/>
-</a>
-
-<a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> 
-</a>
-
-<a href="https://jquery.com/" title="JQuery" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
-</a>
-
+  <a href="https://inertiajs.com" title="Inertia.js" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/47703742" alt="Inertia.js" width="40" height="40"/>
+  </a>
 </p>
+
+###### Frontend Mastery:
+<p>
+  <a href="https://vuejs.org/" title="Vue.js" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
+
+  <a href="https://nuxtjs.org/" title="Nuxt" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
+  </a>
+
+  <a href="https://react.dev" title="React" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/445914/node-js.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
+
+###### Databases:
+<p>
+  <a href="https://www.mysql.com/" title="Mysql" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://redis.io" title="Redis" target="_blank" rel="noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="40" height="40"/>
+  </a>
+</p>
+
+###### Devops Skills:
+<p>
+  <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"> 
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="AWS" width="60" height="40"/>
+  </a>
+
+  <a href="https://www.namecheap.com" title="Name Cheap" target="_blank" rel="noreferrer"> 
+    <img src="https://www.logo.wine/a/logo/Namecheap/Namecheap-Logo.wine.svg" alt="Name Cheap" width="120" height="40"/>
+  </a>
+
+  <a href="https://www.digitalocean.com" title="Digital Ocean" target="_blank" rel="noreferrer"> 
+    <img src="https://static.cdnlogo.com/logos/d/54/digitalocean.svg" alt="Digital Ocean" width="100" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" alt="Docker" width="60" height="60"/>
+  </a>
+</p>
+
+###### Workflow Automations:
+<p>
+  <a href="https://zapier.com" title="Zapier" target="_blank" rel="noreferrer"> 
+     <img src="https://res.cloudinary.com/zapier-media/image/upload/v1666030611/Contact%20Sales/logo_ptzjx8.png" alt="Zapier" width="45" height="45" /> 
+  </a>
+</p>
+
+###### Documentation Tools:
+<p>
+  <a href="https://swagger.io/" title="Swagger" target="_blank" rel="noreferrer"> 
+     <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger" width="40" height="40" /> 
+  </a>
+</p>
+
+###### Frontend Design Expertise:
+<p>
+  <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> 
+  </a>
+
+  <a href="https://jquery.com/" title="JQuery" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
 </br></br>
 
 
