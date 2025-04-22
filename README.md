@@ -14,6 +14,15 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 6. 🦾 Workflow automation Expert
 7. 🎓 Computer Science Graduate
 
+##### 𝐊𝐞𝐲 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐃𝐨𝐦𝐚𝐢𝐧𝐬
+- [x] SaaS Application Development
+- [x] Custom Web Apps & Portals Development (𝒇𝒐𝒓 𝒃𝒖𝒔𝒊𝒏𝒆𝒔𝒔𝒆𝒔 𝒐𝒇 𝒂𝒍𝒍 𝒔𝒊𝒛𝒆𝒔)
+- [x] System Architecture & Design
+- [x] Third Party & Payment Gateways Integrations
+- [x] HubSpot Marketplace App Development
+- [x] Zapier App Development
+- [x] Automation Scripting
+
 ##### My Specialized Skills:
 
 ###### Backend Technologies:
@@ -71,6 +80,10 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png" alt="PostgresSQL" width="45" height="45"/>
   </a>
 
+  <a href="https://firebase.google.com" title="Firebase" target="_blank" rel="noreferrer">
+    <img src="https://www.nichetechsolutions.com/public/images/service/x170981713642.png.pagespeed.ic.e0U65KWHz3.png" alt="Firebase" width="70" height="55"/>
+  </a>
+  
   <a href="https://redis.io" title="Redis" target="_blank" rel="noreferrer">
     <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="40" height="40"/>
   </a>
