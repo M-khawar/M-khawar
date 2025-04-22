@@ -19,7 +19,7 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 ###### Backend Technologies:
 <p>
   <a href="https://www.php.net" title="PHP" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" alt="PHP" width="60" height="40"/>
   </a>
   <a href="https://laravel.com/" title="Laravel" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
@@ -59,8 +59,16 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 
 ###### Databases:
 <p>
-  <a href="https://www.mysql.com/" title="Mysql" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com" title="Mysql" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://sqlite.org" title="Sqlite" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/759/621/png-clipart-sqlite-database-android-computer-software-application-software-android-angle-data-thumbnail.png" alt="Sqlite" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.postgresql.org" title="PostgresSQL" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png" alt="PostgresSQL" width="45" height="45"/>
   </a>
 
   <a href="https://redis.io" title="Redis" target="_blank" rel="noreferrer">
@@ -82,8 +90,13 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
     <img src="https://static.cdnlogo.com/logos/d/54/digitalocean.svg" alt="Digital Ocean" width="100" height="40"/>
   </a>
 
+
+  <a href="https://en.wikipedia.org/wiki/CI/CD" title="CI/CD" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlIS2FrlPbzLXVkm6-SydvjlM5-d8vrJgikg&s" alt="CI/CD" width="80" height="40"/>
+  </a>
+  
   <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" alt="Docker" width="60" height="60"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" alt="Docker" width="60" height="50"/>
   </a>
 </p>
 
