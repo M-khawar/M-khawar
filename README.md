@@ -116,7 +116,7 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 ###### Workflow Automations:
 <p>
   <a href="https://zapier.com" title="Zapier" target="_blank" rel="noreferrer"> 
-     <img src="https://res.cloudinary.com/zapier-media/image/upload/v1666030611/Contact%20Sales/logo_ptzjx8.png" alt="Zapier" width="45" height="45" /> 
+     <img src="https://1000logos.net/wp-content/uploads/2022/09/Zapier-Logo.png" alt="Zapier" width="60" height="45" /> 
   </a>
 </p>
 
@@ -145,5 +145,3 @@ I'm an 𝑬𝒙𝒑𝒆𝒓𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆�
 
 
 <p>🔭 I'm currently looking for a remote full/part-time job</b></p>
-
-<p>📧 You can reach me at <a href="mailto:workwithkhawar@gmail.com"><b>workwithkhawar@gmail.com</b></a></p>
